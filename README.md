@@ -19,10 +19,10 @@
 
 <div>
     <a href="https://teohzhixiang.com/citation-grab/">Citation Grab</a>
-    <img style="
+    [<img style="
       height: 50px;
       width: 50px;
-      display: block;" src="./images/citation-grab.png">
+      display: block;" src="./images/citation-grab.png" />]
     by Zhixiang Teoh
 </div>
 
