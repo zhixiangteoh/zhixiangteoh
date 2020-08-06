@@ -18,7 +18,7 @@ by Moe Amaya
 
 <a href="https://teohzhixiang.com/citation-grab/">Citation Grab</a>
 
-![Citation Grab logo](https://github.com/zhixiangteoh/zhixiangteoh/images/citation-grab-page.png)
+![Citation Grab logo](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/citation-grab-page.png)
 
 by Zhixiang Teoh
 
