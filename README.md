@@ -5,7 +5,7 @@
 ## <code>Check out</code>
 <a href="https://cssgradient.io/">CSS Gradient</a>
 
-![CSS Gradient logo](./images/css-gradient.png)
+![CSS Gradient logo](https://github.com/zhixiangteoh/zhixiangteoh/images/css-gradient.png)
 
 ```css
 background: rgb(34,193,195);
@@ -18,7 +18,7 @@ by Moe Amaya
 
 <a href="https://teohzhixiang.com/citation-grab/">Citation Grab</a>
 
-![Citation Grab logo](./images/citation-grab-page.png)
+![Citation Grab logo](https://github.com/zhixiangteoh/zhixiangteoh/images/citation-grab-page.png)
 
 by Zhixiang Teoh
 
