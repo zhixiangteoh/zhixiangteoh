@@ -5,7 +5,7 @@
 ## <code>Check out</code>
 <a href="https://cssgradient.io/">CSS Gradient</a>
 
-![CSS Gradient logo](https://github.com/zhixiangteoh/zhixiangteoh/images/css-gradient.png)
+![CSS Gradient logo](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/css-gradient.png)
 
 ```css
 background: rgb(34,193,195);
