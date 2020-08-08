@@ -24,9 +24,10 @@ by Zhixiang Teoh
 
 <hr>
 
-<a href="https://www.figma.com/file/DEZlPPbR0SSjoT42Me5mmR/desktop?node-id=0%3A1">Math Club website revamp</a>
+<a href="https://teohzhixiang.com/pitt-math-club/">Math Club website revamp</a>
     
-![Math Club figma](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_logo.svg)
+![Math Club figma](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_figma.svg)
+![Math Club new website](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_website.png)
 
 by Zhixiang Teoh
 
