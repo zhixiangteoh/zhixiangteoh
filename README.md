@@ -26,7 +26,7 @@ by Zhixiang Teoh
 
 <a href="https://teohzhixiang.com/pitt-math-club/">Math Club website revamp</a>
     
-![Math Club figma](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_figma.svg)
+![Math Club figma](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_figma.png)
 ![Math Club new website](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_website.png)
 
 by Zhixiang Teoh
