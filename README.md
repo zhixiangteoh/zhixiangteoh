@@ -3,6 +3,13 @@
 <!-- **zhixiangteoh/zhixiangteoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## <code>Check out</code>
+
+<a href="https://teohzhixiang.com">teohzhixiang.com</a>
+
+My personal website, updated with my latest experiences and projects.
+
+<hr>
+
 <a href="https://github.com/zhixiangteoh/tp">eCardnomics</a>
 
             ___              _                       _           
