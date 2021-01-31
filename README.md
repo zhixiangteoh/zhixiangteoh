@@ -2,8 +2,7 @@
 
 <!-- **zhixiangteoh/zhixiangteoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-> "If I have seen further it is by standing on the shoulders of giants."
-> ![Favorite quote / Life motto][favquote]
+![Favorite quote / Life motto][favquote]
 
 ### <code>Check out</code>
 
