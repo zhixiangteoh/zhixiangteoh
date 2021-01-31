@@ -17,7 +17,7 @@
 <!-- Image links and URLs -->
 [favquote]: https://raw.githubusercontent.com/zhixiangteoh/zhixiangteoh/master/favquote.png "My favorite quote!"
 
-[ecardnomics-url]: https://github.com/zhixiangteoh/tp "eCardnomics docs"
+[ecardnomics-url]: https://ay2021s1-cs2113-t14-2.github.io/tp/ "eCardnomics docs"
 [ecardnomics-repo]: https://github.com/AY2021S1-CS2113-T14-2/tp "eCardnomics source"
 
 [securechat-ss]: https://raw.githubusercontent.com/zhixiangteoh/zhixiangteoh/master/secure-chat.png "SecureChat in action"
