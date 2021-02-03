@@ -4,16 +4,6 @@
 
 ![Favorite quote / Life motto][favquote]
 
-### <code>Check out</code>
-
-| Project | Demo | Source |
-|-|-|-|
-|Co-Re MERN|[Website][core-url]|[Source][core-repo]|
-|Citation Grab|[Website][citationgrab-url]|[Source][citationgrab-repo]|
-|Pitt Math Club Website|[Website][pittmathclub-url]|[Source][pittmathclub-repo]
-|SecureChat|-|[Source][securechat-repo]|
-|eCardnomics|[Docs][ecardnomics-url]|[Source][ecardnomics-repo]|
-
 <!-- Image links and URLs -->
 [favquote]: https://raw.githubusercontent.com/zhixiangteoh/zhixiangteoh/master/favquote.png "My favorite quote!"
 
